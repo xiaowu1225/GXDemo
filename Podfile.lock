@@ -1,0 +1,22 @@
+PODS:
+  - GXLogining (0.1.0):
+    - GXNetworking
+  - GXNetworking (0.1.0)
+
+DEPENDENCIES:
+  - GXLogining (from `Lib/GXLogining`)
+  - GXNetworking (from `Lib/GXNetworking`)
+
+EXTERNAL SOURCES:
+  GXLogining:
+    :path: Lib/GXLogining
+  GXNetworking:
+    :path: Lib/GXNetworking
+
+SPEC CHECKSUMS:
+  GXLogining: a0f36bd31690eddabcc6efcd0699e4da7fe42228
+  GXNetworking: 6a2a394cfd9012897d83a9188ff8625aa113df6f
+
+PODFILE CHECKSUM: 55a675a05be7ec2650ccfcd9fed829d06ed982ba
+
+COCOAPODS: 1.5.3

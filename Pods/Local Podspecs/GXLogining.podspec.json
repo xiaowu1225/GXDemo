@@ -1,0 +1,27 @@
+{
+  "name": "GXLogining",
+  "version": "0.1.0",
+  "summary": "A short description of GXLogining.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/siguoxi/GXLogining",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "siguoxi": "suiyuan78223@163.com"
+  },
+  "source": {
+    "git": "https://github.com/siguoxi/GXLogining.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GXLogining/Classes/**/*",
+  "dependencies": {
+    "GXNetworking": [
+
+    ]
+  }
+}
